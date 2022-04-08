@@ -1,0 +1,42 @@
+@media (prefers-color-scheme: light) {
+  #banner {
+      color: black;
+      background-color: white;
+  }
+  #container {
+
+  }
+}
+@media (prefers-color-scheme: dark) {
+    #banner {
+        color: white;
+        background-color: black;
+    }
+    #container {
+        color: white;
+        background-color: black;
+    }
+}
+@media (prefers-color-scheme: no-preference) {
+    #banner {
+        color: white;
+        background-color: black;
+    }
+    #container {
+        color: white;
+        background-color: black;
+    }
+}
+
+.i:link {
+    text-decoration: none;
+    color: black;
+}
+.i:visited {
+    color: black;
+    text-decoration: none;
+}
+
+#media-div {
+    font-size: 40px;
+}
