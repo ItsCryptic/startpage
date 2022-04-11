@@ -29,6 +29,11 @@
     }
 }
 
+#container {
+  color: white;
+  background-color: black;
+}
+
 #header {
     display: flex;
     align-items: center;
