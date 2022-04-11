@@ -4,7 +4,8 @@
       background-color: white;
   }
   #container {
-
+      background-color: white;
+      color: black;
   }
 }
 @media (prefers-color-scheme: dark) {
@@ -28,12 +29,22 @@
     }
 }
 
+#header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#daily-div {
+    font-size: 40px;
+}
+
 .i:link {
     text-decoration: none;
-    color: black;
+    color: white;
 }
 .i:visited {
-    color: black;
+    color: white;
     text-decoration: none;
 }
 
