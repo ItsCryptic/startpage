@@ -35,10 +35,6 @@
     justify-content: center;
 }
 
-#daily-div {
-    font-size: 40px;
-}
-
 .i:link {
     text-decoration: none;
     color: white;
@@ -48,6 +44,6 @@
     text-decoration: none;
 }
 
-#media-div {
+#icon-div {
     font-size: 40px;
 }
