@@ -1,2 +1,2 @@
 # startpage
-Start page for my firefox
+Start page for firefox
